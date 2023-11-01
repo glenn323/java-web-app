@@ -94,20 +94,20 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.217.27.159:8081/repository/tesla-releases/</url>
+	      <name>javawebapp-releases</name>
+	      <url>http://192.168.0.8:8181/repository/javawebapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.217.27.159:8081/repository/tesla-snapshots/</url>
+	      <name>javawebapp-snapshots</name>
+	      <url>http://192.168.0.8:8181/repository/javawebapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>java-web-app.app</finalName>
 		
 		<plugins>
 			<plugin>
