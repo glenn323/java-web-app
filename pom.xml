@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>java-web-app</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.2-SNAPSHOT</version> 
 	
-	<name>maven-web-application</name>
+	<name>java-web-app</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:192.168.0.6:9000/projects/</sonar.host.url> 
+		<sonar.host.url>http:192.168.0.6:9000/</sonar.host.url> 
 		<sonar.login>remote_admin</sonar.login>
 		<sonar.password>0526</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
