@@ -6,7 +6,7 @@
 	<artifactId>java-web-app</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.1</version> 
+	<version>0.0.12-SNAPSHOT</version> 
 	
 	<name>java-web-app</name>
 
