@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>javawebapp-releases</name>
-	      <url>http://192.168.0.8:8181/repository/javawebapp-releases/</url>
+	      <url>http://192.168.0.8:8181/mg/repository/javawebapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>javawebapp-snapshots</name>
-	      <url>http://192.168.0.8:8181/repository/javawebapp-snapshots/</url>
+	      <url>http://192.168.0.8:8181/mg/repository/javawebapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
